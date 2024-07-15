@@ -1,3 +1,6 @@
+UPDATES: 15.07.2024- Bug Fixed
+1. Left, right, top, down Negative Padding working Fine
+
 Im happy to introduce the Backdrop Helper Toolkit, 
 an enhanced version of my previous Backdrop Helper tool for Nuke! 
 
